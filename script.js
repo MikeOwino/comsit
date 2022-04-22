@@ -42,11 +42,11 @@ const playerInstance = jwplayer("player").setup({
     {
       title: "sing 2",
       description: "Now Playing",
-      image: "https://res.cloudinary.com/weknow-creators/image/upload/v1650643747/images/SING-2_yywdkw.jpg",
+      image: "https://res.cloudinary.com/weknow-creators/image/upload/v1650656396/images/maxresdefault_aboxxq.jpg",
       sources: [
         {
           file:
-            "https://nw9.seedr.cc/ff_get/1151072069/Sing.2.2021.1080p.WEBRip.x264-RARBG.mp4?st=3qwIKHTr9Ssz3bTgMuj1mA&e=1650731422",
+            "https://nl37.seedr.cc/ff_get/1151163362/9.Bullets.2022.1080p.WEBRip.x264-RARBG.mp4?st=5ZoRq956MTClwnmJRRiJ4g&e=1650742721",
           label: "1080p",
           default: true
         },
