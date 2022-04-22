@@ -85,7 +85,7 @@ const playerInstance = jwplayer("player").setup({
         // },
         {
           file:
-            "https://raw.githubusercontent.com/Foilz/jwplayer/main/%5BEnglish%5D%20Sprite%20Fright%20-%20Blender%20Open%20Movie.srt",
+            "https://res.cloudinary.com/weknow-creators/raw/upload/v1650645498/srts/3_English_ocviti.srt",
           label: "English",
           kind: "captions",
           default: true
