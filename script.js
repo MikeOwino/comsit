@@ -40,7 +40,7 @@ const playerInstance = jwplayer("player").setup({
 
   playlist: [
     {
-      title: "sing 2",
+      title: "9 bullets",
       description: "Now Playing",
       image: "https://res.cloudinary.com/weknow-creators/image/upload/v1650656396/images/maxresdefault_aboxxq.jpg",
       sources: [
