@@ -18,7 +18,7 @@ const playerInstance = jwplayer("player").setup({
 
   logo: {
     file:
-      "NotFlix"
+      " "
   },
 
   // advertising: {
