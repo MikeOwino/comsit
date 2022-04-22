@@ -42,11 +42,11 @@ const playerInstance = jwplayer("player").setup({
     {
       title: "The Batman",
       description: "Now Playing",
-      image: "https://res.cloudinary.com/weknow-creators/image/upload/v1649773533/wallhaven-r2o2k1_1280x720_rwxwid.png",
+      image: "https://res.cloudinary.com/weknow-creators/image/upload/v1650643747/images/SING-2_yywdkw.jpg",
       sources: [
         {
           file:
-            "https://nl33.seedr.cc/ff_get/1145402050/WWE.Monday.Night.Raw.2022.04.11.WEB.x264-HEADKICK.mp4?st=QnPHIEQvnWAIdDT5XqJ5MA&e=1649880795",
+            "https://nw9.seedr.cc/ff_get/1151072069/Sing.2.2021.1080p.WEBRip.x264-RARBG.mp4?st=3qwIKHTr9Ssz3bTgMuj1mA&e=1650731422",
           label: "1080p",
           default: true
         },
