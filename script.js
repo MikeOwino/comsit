@@ -50,31 +50,6 @@ const playerInstance = jwplayer("player").setup({
           label: "1080p",
           default: true
         },
-        // {
-        //   file:
-        //     "https://nw10.seedr.cc/ff_get/1145388475/The%20Batman%20(2022)%201080p%20HDRip%20x264%20-%20ProLover.mp4?st=ZHIGknmC90L9KMV5uZU-nA&e=1649879564",
-        //   label: "720p"
-        // },
-        // {
-        //   file:
-        //     "https://nw4.seedr.cc/ff_get/1145388970/Reign.of.Chaos.2022.720p.WEBRip.800MB.x264-GalaxyRG.mkv?st=9sQwwURm0JJN-OIzoEmRJQ&e=1649879680",
-        //   label: "480p"
-        // },
-        // {
-        //   file:
-        //     "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/74/Sprite_Fright_-_Open_Movie_by_Blender_Studio.webm/Sprite_Fright_-_Open_Movie_by_Blender_Studio.webm.360p.webm",
-        //   label: "360p"
-        // },
-        // {
-        //   file:
-        //     "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/74/Sprite_Fright_-_Open_Movie_by_Blender_Studio.webm/Sprite_Fright_-_Open_Movie_by_Blender_Studio.webm.240p.webm",
-        //   label: "240p"
-        // },
-        // {
-        //   file:
-        //     "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/74/Sprite_Fright_-_Open_Movie_by_Blender_Studio.webm/Sprite_Fright_-_Open_Movie_by_Blender_Studio.webm.160p.webm",
-        //   label: "160p"
-        // }
       ],
       captions: [
         // {
@@ -90,48 +65,7 @@ const playerInstance = jwplayer("player").setup({
           kind: "captions",
           default: true
         },
-        // {
-        //   file:
-        //     "https://raw.githubusercontent.com/Foilz/jwplayer/main/%5BGerman%5D%20Sprite%20Fright%20-%20Blender%20Open%20Movie.srt",
-        //   label: "German",
-        //   kind: "captions"
-        // },
-        // {
-        //   file:
-        //     "https://raw.githubusercontent.com/Foilz/jwplayer/main/%5BHungarian%5D%20Sprite%20Fright%20-%20Blender%20Open%20Movie.srt",
-        //   label: "Hungarian",
-        //   kind: "captions"
-        // },
-        // {
-        //   file:
-        //     "https://raw.githubusercontent.com/Foilz/jwplayer/main/%5BItalian%5D%20Sprite%20Fright%20-%20Blender%20Open%20Movie.srt",
-        //   label: "Italian",
-        //   kind: "captions"
-        // },
-        // {
-        //   file:
-        //     "https://raw.githubusercontent.com/Foilz/jwplayer/main/%5BMalayalam%5D%20Sprite%20Fright%20-%20Blender%20Open%20Movie.srt",
-        //   label: "Malayalam",
-        //   kind: "captions"
-        // },
-        // {
-        //   file:
-        //     "https://raw.githubusercontent.com/Foilz/jwplayer/main/%5BPortugu%C3%AAs%20(Portugal)%5D%20Sprite%20Fright%20-%20Blender%20Open%20Movie.srt",
-        //   label: "Portuguese",
-        //   kind: "captions"
-        // },
-        // {
-        //   file:
-        //     "https://raw.githubusercontent.com/Foilz/jwplayer/main/%5BRussian%5D%20Sprite%20Fright%20-%20Blender%20Open%20Movie.srt",
-        //   label: "Russian",
-        //   kind: "captions"
-        // },
-        // {
-        //   file:
-        //     "https://raw.githubusercontent.com/Foilz/jwplayer/main/%5BSpanish%5D%20Sprite%20Fright%20-%20Blender%20Open%20Movie.srt",
-        //   label: "Spanish",
-        //   kind: "captions"
-        // }
+        
       ],
       tracks: [
         // {
