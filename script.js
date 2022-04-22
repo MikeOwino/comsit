@@ -63,7 +63,7 @@ const playerInstance = jwplayer("player").setup({
             "https://res.cloudinary.com/weknow-creators/raw/upload/v1650645498/srts/3_English_ocviti.srt",
           label: "English",
           kind: "captions",
-          default: true
+          default: false
         },
         
       ],
