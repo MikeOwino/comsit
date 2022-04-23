@@ -46,7 +46,7 @@ const playerInstance = jwplayer("player").setup({
       sources: [
         {
           file:
-            "https://de19.seedr.cc/ff_get/1151639875/Sing.2016.1080p.BluRay.x264-[YTS.AG].mp4?st=TGE7j8qwC-RcHzThrzuuyA&e=1650813994",
+            "https://nl31.seedr.cc/ff_get/1151698207/Uncharted.2022.1080p.WEBRip.DD5.1.X.264-EVO.mkv?st=ZuIqwPhKix_q30UIB4rSOg&e=1650822239",
           label: "1080p",
           default: true
         },
