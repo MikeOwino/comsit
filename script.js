@@ -40,9 +40,9 @@ const playerInstance = jwplayer("player").setup({
 
   playlist: [
     {
-      title: "sing",
+      title: "Uncharted",
       description: "Now Playing",
-      image: "https://res.cloudinary.com/weknow-creators/image/upload/v1650727716/images/maxresdefault_jairod.jpg",
+      image: "https://res.cloudinary.com/weknow-creators/image/upload/v1650738135/images/The-Uncharted_sitve0.jpg",
       sources: [
         {
           file:
