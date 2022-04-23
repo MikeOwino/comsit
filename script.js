@@ -46,7 +46,7 @@ const playerInstance = jwplayer("player").setup({
       sources: [
         {
           file:
-            "https://nl31.seedr.cc/ff_get/1151698207/Uncharted.2022.1080p.WEBRip.DD5.1.X.264-EVO.mkv?st=ZuIqwPhKix_q30UIB4rSOg&e=1650822239",
+            "https://nw1.seedr.cc/ff_get/1151706192/Uncharted.2022.1080p.WEB-DL.DDP5.1.H264-EVO.mkv?st=ObCGyOIisq0KkxHaD2podg&e=1650823772",
           label: "1080p",
           default: true
         },
