@@ -40,13 +40,13 @@ const playerInstance = jwplayer("player").setup({
 
   playlist: [
     {
-      title: "9 bullets",
+      title: "sing",
       description: "Now Playing",
-      image: "https://res.cloudinary.com/weknow-creators/image/upload/v1650656396/images/maxresdefault_aboxxq.jpg",
+      image: "https://res.cloudinary.com/weknow-creators/image/upload/v1650727716/images/maxresdefault_jairod.jpg",
       sources: [
         {
           file:
-            "https://nl37.seedr.cc/ff_get/1151163362/9.Bullets.2022.1080p.WEBRip.x264-RARBG.mp4?st=5ZoRq956MTClwnmJRRiJ4g&e=1650742721",
+            "https://de19.seedr.cc/ff_get/1151639875/Sing.2016.1080p.BluRay.x264-[YTS.AG].mp4?st=TGE7j8qwC-RcHzThrzuuyA&e=1650813994",
           label: "1080p",
           default: true
         },
