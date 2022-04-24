@@ -42,7 +42,7 @@ const playerInstance = jwplayer("player").setup({
     {
       title: "WRECK-IT RALPH",
       description: "Now Playing",
-      image: "https://res.cloudinary.com/weknow-creators/image/upload/v1650738135/images/The-Uncharted_sitve0.jpg",
+      image: "https://res.cloudinary.com/weknow-creators/image/upload/v1650817589/images/maxresdefault_mwey1p.jpg",
       sources: [
         {
           file:
