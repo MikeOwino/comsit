@@ -46,7 +46,7 @@ const playerInstance = jwplayer("player").setup({
       sources: [
         {
           file:
-            "https://nw15.seedr.cc/ff_get/1151708047/Uncharted.2022.1080p.WEBRip.x264-RARBG.mp4?st=BPTWV3PB-tPlRZLL344EOw&e=1650824052",
+            "https://de15.seedr.cc/ff_get/1152241740/Wreck.it.Ralph.2012.1080p.BrRip.x264.BOKUTOX.YIFY.mp4?st=neQgemT1u2OmErQ8jDzTAw&e=1650903811",
           label: "1080p",
           default: true
         },
