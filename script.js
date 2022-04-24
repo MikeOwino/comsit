@@ -40,7 +40,7 @@ const playerInstance = jwplayer("player").setup({
 
   playlist: [
     {
-      title: "Uncharted",
+      title: "WRECK-IT RALPH",
       description: "Now Playing",
       image: "https://res.cloudinary.com/weknow-creators/image/upload/v1650738135/images/The-Uncharted_sitve0.jpg",
       sources: [
