@@ -46,7 +46,7 @@ const playerInstance = jwplayer("player").setup({
       sources: [
         {
           file:
-            "https://de15.seedr.cc/ff_get/1152241740/Wreck.it.Ralph.2012.1080p.BrRip.x264.BOKUTOX.YIFY.mp4?st=37PLhrZxlWxjn4B9kruwdQ&e=1650991345 ",
+            "https://de15.seedr.cc/ff_get/1152241740/Wreck.it.Ralph.2012.1080p.BrRip.x264.BOKUTOX.YIFY.mp4?st=37PLhrZxlWxjn4B9kruwdQ&e=1650991345",
           label: "1080p",
           default: true
         },
