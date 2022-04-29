@@ -40,13 +40,13 @@ const playerInstance = jwplayer("player").setup({
 
   playlist: [
     {
-      title: "WRECK-IT RALPH",
+      title: "The Nut Job",
       description: "Now Playing",
-      image: "https://res.cloudinary.com/weknow-creators/image/upload/v1650817589/images/maxresdefault_mwey1p.jpg",
+      image: "https://res.cloudinary.com/weknow-creators/image/upload/v1651245518/images/the-nut-job-poster4_tvheli.jpg",
       sources: [
         {
           file:
-            "https://de15.seedr.cc/ff_get/1152241740/Wreck.it.Ralph.2012.1080p.BrRip.x264.BOKUTOX.YIFY.mp4?st=37PLhrZxlWxjn4B9kruwdQ&e=1650991345",
+            "https://de25.seedr.cc/ff_get/1155047675/The.Nut.Job.2014.1080p.BluRay.x264.YIFY.mp4?st=r89Xu_XZavkTA5jsn9LKww&e=1651331779",
           label: "1080p",
           default: true
         },
