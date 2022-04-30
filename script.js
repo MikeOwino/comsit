@@ -40,7 +40,7 @@ const playerInstance = jwplayer("player").setup({
 
   playlist: [
     {
-      title: "The Nut Job",
+      title: "The Nut Job 2",
       description: "Now Playing",
       image: "https://res.cloudinary.com/weknow-creators/image/upload/v1651296341/images/Nut-Job-2_lcstvr.jpg",
       sources: [
