@@ -42,11 +42,11 @@ const playerInstance = jwplayer("player").setup({
     {
       title: "The Nut Job",
       description: "Now Playing",
-      image: "https://res.cloudinary.com/weknow-creators/image/upload/v1651245518/images/the-nut-job-poster4_tvheli.jpg",
+      image: "https://res.cloudinary.com/weknow-creators/image/upload/v1651296341/images/Nut-Job-2_lcstvr.jpg",
       sources: [
         {
           file:
-            "https://de25.seedr.cc/ff_get/1155047675/The.Nut.Job.2014.1080p.BluRay.x264.YIFY.mp4?st=r89Xu_XZavkTA5jsn9LKww&e=1651331779",
+            "https://nw9.seedr.cc/ff_get/1155497493/The.Nut.Job.2.Nutty.By.Nature.2017.1080p.BluRay.x264-[YTS.AG].mp4?st=quEvXBk8Uwq8O4jNhmH4UA&e=1651382906",
           label: "1080p",
           default: true
         },
