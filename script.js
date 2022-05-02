@@ -46,7 +46,7 @@ const playerInstance = jwplayer("player").setup({
       sources: [
         {
           file:
-            "https://nw9.seedr.cc/ff_get/1156817934/the.simpsons.s33e19.720p.web.h264-cakes.mkv?st=85xOfNQ7-XmSXBsf3yGlmA&e=1651568335",
+            "https://nl19.seedr.cc/ff_get/1156829895/The.Bad.Guys.2022.1080p.WEBRip.x264.AC3-EVO.mkv?st=7y-Mps44sSw0vhaXEo1UHg&e=1651568608",
           label: "1080p",
           default: true
         },
