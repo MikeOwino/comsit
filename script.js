@@ -46,7 +46,7 @@ const playerInstance = jwplayer("player").setup({
       sources: [
         {
           file:
-            "https://nl29.seedr.cc/ff_get/1156832122/The.Bad.Guys.2022.720p.WEBRip.AAC2.0.X.264-EVO.mkv?st=n7UheL4r4YSLVg13_PrpOA&e=1651569045",
+            "https://nl29.seedr.cc/ff_get/1156832122/The.Bad.Guys.2022.720p.WEBRip.AAC2.0.X.264-EVO.mkv?st=NeReRcNU_U4Rn2tWELicXA&e=1651569101",
           label: "1080p",
           default: true
         },
