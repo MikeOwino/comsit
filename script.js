@@ -40,13 +40,13 @@ const playerInstance = jwplayer("player").setup({
 
   playlist: [
     {
-      title: "The Nut Job 2",
+      title: "The bad guys",
       description: "Now Playing",
-      image: "https://res.cloudinary.com/weknow-creators/image/upload/v1651296341/images/Nut-Job-2_lcstvr.jpg",
+      image: "https://res.cloudinary.com/weknow-creators/image/upload/v1651481667/images/the-bad-guys-share-image-v2_bgant8.jpg",
       sources: [
         {
           file:
-            "https://nw9.seedr.cc/ff_get/1155497493/The.Nut.Job.2.Nutty.By.Nature.2017.1080p.BluRay.x264-[YTS.AG].mp4?st=quEvXBk8Uwq8O4jNhmH4UA&e=1651382906",
+            "https://nl20.seedr.cc/ff_get/1156826375/The.Bad.Guys.2022.1080p.WEBRip.DD5.1.X.264-EVO.mkv?st=c_fDdfZIBUJmeRUKUCctvg&e=1651568128",
           label: "1080p",
           default: true
         },
