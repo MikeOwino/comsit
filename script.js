@@ -46,7 +46,7 @@ const playerInstance = jwplayer("player").setup({
       sources: [
         {
           file:
-            "https://nl29.seedr.cc/ff_get/1156827268/The.Bad.Guys.2022.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG.mkv?st=0CiJPuqvFa9DAwZ7HyCclw&e=1651568245",
+            "https://nw9.seedr.cc/ff_get/1156817934/the.simpsons.s33e19.720p.web.h264-cakes.mkv?st=85xOfNQ7-XmSXBsf3yGlmA&e=1651568335",
           label: "1080p",
           default: true
         },
