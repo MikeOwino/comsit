@@ -42,11 +42,11 @@ const playerInstance = jwplayer("player").setup({
     {
       title: "The bad guys",
       description: "Now Playing",
-      image: "https://res.cloudinary.com/weknow-creators/image/upload/v1651481667/images/the-bad-guys-share-image-v2_bgant8.jpg",
+      image: "https://m.media-amazon.com/images/M/MV5BOWIyZTdkYjktZjkxMC00YjRlLWJmMjItNjg2M2IyYzJjMTY2XkEyXkFqcGdeQWRvb2xpbmhk._V1_QL40_QL75_UX1000_CR0,0,1000,563_.jpg",
       sources: [
         {
           file:
-            "https://nl17.seedr.cc/ff_get/1156861675/the.simpsons.s33e19.1080p.web.h264-cakes.mkv?st=L24MsYf4q4_pk5ONgMlP4Q&e=1651571335",
+            "https://imdb-video.media-imdb.com/vi1050657305/1434659607842-pgv4ql-1651759497734.mp4?Expires=1652436594&Signature=oxEkPn~k7~EYg7P~5u9yEmkjwXcLQhTPlanbzW4j6lWEjVmci2Za2OHFeT37Yg1Gog3syWOi3eicRCi8CAZ7tvD-VVxZkSKWDSxtU5OZyqPhl~T8c-jFNikrthWwPevCvnn~tUGrSPwv7qr67GnQ2Yz22hbs3WnBKfwsQCPy9vlRJTDwmfuw~7ms4ah8yE178CkuxjIbWasxgJzmhkIKPGxhx3q~VmDxNlUt-kOZTm4ILvt2upiB1EcpxJvOBkKWXvhXs9N6X62mQIyCh4SMF1BuoRWQ9MLiwFoxbcJ3NnzP7aFlJWUp7sX1C~WsUTmnFF7VO0d7iSdlkuJqiVLIMQ__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA",
           label: "1080p",
           default: true
         },
