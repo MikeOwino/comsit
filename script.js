@@ -40,7 +40,7 @@ const playerInstance = jwplayer("player").setup({
 
   playlist: [
     {
-      title: "The bad guys",
+      title: "Doctor Strange in the Multiverse of Madness",
       description: "Now Playing",
       image: "https://m.media-amazon.com/images/M/MV5BOWIyZTdkYjktZjkxMC00YjRlLWJmMjItNjg2M2IyYzJjMTY2XkEyXkFqcGdeQWRvb2xpbmhk._V1_QL40_QL75_UX1000_CR0,0,1000,563_.jpg",
       sources: [
