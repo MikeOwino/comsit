@@ -40,13 +40,13 @@ const playerInstance = jwplayer("player").setup({
 
   playlist: [
     {
-      title: "Doctor Strange in the Multiverse of Madness",
+      title: "Planes",
       description: "Now Playing",
-      image: "https://m.media-amazon.com/images/M/MV5BOWIyZTdkYjktZjkxMC00YjRlLWJmMjItNjg2M2IyYzJjMTY2XkEyXkFqcGdeQWRvb2xpbmhk._V1_QL40_QL75_UX1000_CR0,0,1000,563_.jpg",
+      image: "https://i.ytimg.com/vi/lDZBvBdbnjY/maxresdefault.jpg",
       sources: [
         {
           file:
-            "https://imdb-video.media-imdb.com/vi1050657305/1434659607842-pgv4ql-1651759497734.mp4?Expires=1652436594&Signature=oxEkPn~k7~EYg7P~5u9yEmkjwXcLQhTPlanbzW4j6lWEjVmci2Za2OHFeT37Yg1Gog3syWOi3eicRCi8CAZ7tvD-VVxZkSKWDSxtU5OZyqPhl~T8c-jFNikrthWwPevCvnn~tUGrSPwv7qr67GnQ2Yz22hbs3WnBKfwsQCPy9vlRJTDwmfuw~7ms4ah8yE178CkuxjIbWasxgJzmhkIKPGxhx3q~VmDxNlUt-kOZTm4ILvt2upiB1EcpxJvOBkKWXvhXs9N6X62mQIyCh4SMF1BuoRWQ9MLiwFoxbcJ3NnzP7aFlJWUp7sX1C~WsUTmnFF7VO0d7iSdlkuJqiVLIMQ__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA",
+            "https://de25.seedr.cc/ff_get/1163678602/Planes.2013.1080p.BluRay.x264.YIFY.mp4?st=dN0JWklaCwvWfoQjDAIzXw&e=1652543826",
           label: "1080p",
           default: true
         },
