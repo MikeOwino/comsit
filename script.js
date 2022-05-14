@@ -46,7 +46,7 @@ const playerInstance = jwplayer("player").setup({
       sources: [
         {
           file:
-            "https://nl29.seedr.cc/ff_get/1164275107/Morbius%20(2022)%201080p%20HDRip%20x264%20-%20Prolover.mkv?st=6zddWkfSaRL_eLNfTldWSA&e=1652628455",
+            "https://nl22.seedr.cc/ff_get/1164277114/Morbius.2022.1080p.WEBRip.1400MB.DD2.0.x264-GalaxyRG.mkv?st=hkoZH-ufyyVcao8T7eocAA&e=1652628657",
           label: "1080p",
           default: true
         },
