@@ -42,11 +42,11 @@ const playerInstance = jwplayer("player").setup({
     {
       title: "Planes",
       description: "Now Playing",
-      image: "https://i.ytimg.com/vi/lDZBvBdbnjY/maxresdefault.jpg",
+      image: "https://images.indianexpress.com/2021/12/morbius-1200-1.jpg",
       sources: [
         {
           file:
-            "https://de25.seedr.cc/ff_get/1163678602/Planes.2013.1080p.BluRay.x264.YIFY.mp4?st=dN0JWklaCwvWfoQjDAIzXw&e=1652543826",
+            "https://nl29.seedr.cc/ff_get/1164275107/Morbius%20(2022)%201080p%20HDRip%20x264%20-%20Prolover.mkv?st=6zddWkfSaRL_eLNfTldWSA&e=1652628455",
           label: "1080p",
           default: true
         },
