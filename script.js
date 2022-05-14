@@ -42,11 +42,11 @@ const playerInstance = jwplayer("player").setup({
     {
       title: "Planes",
       description: "Now Playing",
-      image: "https://images.indianexpress.com/2021/12/morbius-1200-1.jpg",
+      image: "https://i.ytimg.com/vi/SIJnzoUvR_k/maxresdefault.jpg",
       sources: [
         {
           file:
-            "https://nl22.seedr.cc/ff_get/1164277114/Morbius.2022.1080p.WEBRip.1400MB.DD2.0.x264-GalaxyRG.mkv?st=hkoZH-ufyyVcao8T7eocAA&e=1652628657",
+            "https://nl38.seedr.cc/ff_get/1164296744/Tom%20And%20Jerry%20Willy%20Wonka%20And%20The%20Chocolate%20Factory%202017%20Movies%20720p%20HDRip%20XviD%20AAC%20New%20Source%20rDX.mkv?st=2CrIhnXS9T6Q59EoZo8Ucg&e=1652631101",
           label: "1080p",
           default: true
         },
