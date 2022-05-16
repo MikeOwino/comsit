@@ -46,7 +46,7 @@ const playerInstance = jwplayer("player").setup({
       sources: [
         {
           file:
-            "https://nl38.seedr.cc/ff_get/1164296744/Tom%20And%20Jerry%20Willy%20Wonka%20And%20The%20Chocolate%20Factory%202017%20Movies%20720p%20HDRip%20XviD%20AAC%20New%20Source%20rDX.mkv?st=2CrIhnXS9T6Q59EoZo8Ucg&e=1652631101",
+            "https://rs1.seedr.cc/ff_get/1165215399/the.simpsons.s33e21.1080p.web.h264-cakes.mkv?st=k27NaGV8MW6ho7aGKAvgsw&e=1652770158",
           label: "1080p",
           default: true
         },
