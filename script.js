@@ -40,7 +40,7 @@ const playerInstance = jwplayer("player").setup({
 
   playlist: [
     {
-      title: "Planes",
+      title: "sonic the hedgehog 2",
       description: "Now Playing",
       image: "https://res.cloudinary.com/weknow-creators/image/upload/v1653067188/sonic-2-poster-game_awkira.jpg",
       sources: [
