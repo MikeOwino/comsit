@@ -46,7 +46,7 @@ const playerInstance = jwplayer("player").setup({
       sources: [
         {
           file:
-            "https://nw7.seedr.cc/ff_get/1168023601/Sonic.the.Hedgehog.2.2022.1080p.WEBRip.1400MB.DD2.0.x264-GalaxyRG.mkv?st=EMQqLvuDzNcZNu3MTSpXpw&e=1653154228",
+            "https://de26.seedr.cc/ff_get/1168030218/Sonic.the.Hedgehog.2.2022.WEBRip.x264-SHITBOX.mp4?st=VnkygHtf2k6sP5JaAesiTg&e=1653154527",
           label: "1080p",
           default: true
         },
