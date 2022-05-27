@@ -40,7 +40,7 @@ const playerInstance = jwplayer("player").setup({
 
   playlist: [
     {
-      title: "Planes",
+      title: "Andor",
       description: "Now Playing",
       image: "https://m.media-amazon.com/images/M/MV5BZDkyZmVhZTUtMDU1Zi00ZmRkLTg2ZjgtNTM4MGY4YThjYmYxXkEyXkFqcGdeQWpnYW1i._V1_.jpg",
       sources: [
