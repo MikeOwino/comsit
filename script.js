@@ -40,13 +40,13 @@ const playerInstance = jwplayer("player").setup({
 
   playlist: [
     {
-      title: "sonic the hedgehog 2",
+      title: "Planes",
       description: "Now Playing",
-      image: "https://res.cloudinary.com/weknow-creators/image/upload/v1653067188/sonic-2-poster-game_awkira.jpg",
+      image: "https://m.media-amazon.com/images/M/MV5BYzRjY2FiOTEtMjJmYy00M2FlLTk0M2MtOTkxYzNkNWU1ODIyXkEyXkFqcGdeQWFsZWxvZw@@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
       sources: [
         {
           file:
-            "https://de26.seedr.cc/ff_get/1168030218/Sonic.the.Hedgehog.2.2022.WEBRip.x264-SHITBOX.mp4?st=VnkygHtf2k6sP5JaAesiTg&e=1653154527",
+            "https://imdb-video.media-imdb.com/vi1576780313/1434659607842-pgv4ql-1653591821857.mp4?Expires=1653761794&Signature=sgcv7pfCf3HDPeuwdfUPDhlIN~G5OfQiCue2FtWh5eXRe-l~xqWcerGdQQXlenK-C0cs7FthEoxmjCIjEyIA3naeqQ1LJMr43yLxNpvYH7GOazrgwvNWVmQhVvgukUYdw21utQQWrgH3m3Tei8a4HElfa2FbxtKcDGBxgAryVbgRwpmdfJfLv~khZB9LahlFm3vmhect0rs0AguB1xhxqZDr6VuhbXJVQ06L~OArSSKWTN1OnLAmy2fG6f-fyykgx5qlnhqHdVbWE0uiIcjxGTiqek96VxQ6QjOkMtBOWcMxLuNznmaBZKV6rAdjCSQlVEgK6Ik6k~r4IXCwL7AyMw__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA",
           label: "1080p",
           default: true
         },
