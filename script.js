@@ -10,7 +10,7 @@ const playerInstance = jwplayer("player").setup({
   renderCaptionsNatively: false,
   autostart: false,
   abouttext: "Github",
-  aboutlink: "https://github.com/Foilz",
+  aboutlink: "https://github.com/mikeyhodl/comsit",
 
   skin: {
     name: "netflix"
@@ -40,7 +40,7 @@ const playerInstance = jwplayer("player").setup({
 
   playlist: [
     {
-      title: "Planes",
+      title: "Andor",
       description: "Now Playing",
       image: "https://m.media-amazon.com/images/M/MV5BYzRjY2FiOTEtMjJmYy00M2FlLTk0M2MtOTkxYzNkNWU1ODIyXkEyXkFqcGdeQWFsZWxvZw@@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
       sources: [
