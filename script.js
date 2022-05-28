@@ -8,7 +8,7 @@ const playerInstance = jwplayer("player").setup({
   stretching: "uniform",
   aspectratio: "16:9",
   renderCaptionsNatively: false,
-  autostart: false,
+  autostart: true,
   abouttext: "Github",
   aboutlink: "https://github.com/mikeyhodl/comsit",
 
