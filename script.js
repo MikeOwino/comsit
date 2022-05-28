@@ -1,6 +1,6 @@
 const playerInstance = jwplayer("player").setup({
   controls: true,
-  sharing: true,
+  sharing: false,
   displaytitle: true,
   displaydescription: true,
   fullscreen: "true",
@@ -8,7 +8,7 @@ const playerInstance = jwplayer("player").setup({
   stretching: "uniform",
   aspectratio: "16:9",
   renderCaptionsNatively: false,
-  autostart: true,
+  autostart: false,
   abouttext: "Github",
   aboutlink: "https://github.com/mikeyhodl/comsit",
 
