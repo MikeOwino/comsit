@@ -42,11 +42,11 @@ const playerInstance = jwplayer("player").setup({
     {
       title: "Andor",
       description: "Now Playing",
-      image: "https://m.media-amazon.com/images/M/MV5BZDkyZmVhZTUtMDU1Zi00ZmRkLTg2ZjgtNTM4MGY4YThjYmYxXkEyXkFqcGdeQWpnYW1i._V1_.jpg",
+      image: "https://res.cloudinary.com/weknow-creators/image/upload/v1653727178/SagjlE_dtip3s.jpg",
       sources: [
         {
           file:
-            "https://imdb-video.media-imdb.com/vi1576780313/1434659607842-pgv4ql-1653591821857.mp4?Expires=1653761794&Signature=sgcv7pfCf3HDPeuwdfUPDhlIN~G5OfQiCue2FtWh5eXRe-l~xqWcerGdQQXlenK-C0cs7FthEoxmjCIjEyIA3naeqQ1LJMr43yLxNpvYH7GOazrgwvNWVmQhVvgukUYdw21utQQWrgH3m3Tei8a4HElfa2FbxtKcDGBxgAryVbgRwpmdfJfLv~khZB9LahlFm3vmhect0rs0AguB1xhxqZDr6VuhbXJVQ06L~OArSSKWTN1OnLAmy2fG6f-fyykgx5qlnhqHdVbWE0uiIcjxGTiqek96VxQ6QjOkMtBOWcMxLuNznmaBZKV6rAdjCSQlVEgK6Ik6k~r4IXCwL7AyMw__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA",
+            "https://de18.seedr.cc/ff_get/1172697768/Pets%20United%20(2020)%20%20[1080p%20x265%2010bit%20FS91%20Joy].mkv?st=wqlT7uPh-NvUwMrfPgzdQw&e=1653813107",
           label: "1080p",
           default: true
         },
