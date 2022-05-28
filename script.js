@@ -58,13 +58,13 @@ const playerInstance = jwplayer("player").setup({
         //   label: "Bangla",
         //   kind: "captions"
         // },
-        {
-          file:
-            "https://res.cloudinary.com/weknow-creators/raw/upload/v1650646028/srts/3_English_clkiga.srt",
-          label: "English",
-          kind: "captions",
-          default: false
-        },
+        // {
+        //   file:
+        //     "https://res.cloudinary.com/weknow-creators/raw/upload/v1650646028/srts/3_English_clkiga.srt",
+        //   label: "English",
+        //   kind: "captions",
+        //   default: false
+        // },
         
       ],
       tracks: [
